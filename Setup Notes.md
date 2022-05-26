@@ -1,4 +1,4 @@
-# MLOps Zoomcamp
+# MLOps Zoomcamp Setup
 
 - Create an instance
 - Create a key to ssh into the instance
