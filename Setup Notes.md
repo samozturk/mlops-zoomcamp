@@ -7,9 +7,9 @@
 
 ```yaml
 Host apollo
-        HostName 3.69.180.43
+        HostName <your ip address>
         User ubuntu
-        IdentityFile ~/.ssh/apollo.pem
+        IdentityFile ~/.ssh/<your ssh key>
         StrictHostKeyChecking no
 ```
 
